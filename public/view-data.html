@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>View Data</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Transformer Record System</h1>
+    <nav>
+      <div class="burger-icon">☰</div>
+      <div class="nav-links">
+        <a href="/index.html">Add Data</a>
+        <a href="/view-data.html">View Data</a>
+      </div>
+    </nav>
+
+    <h1>View Existing Data</h1>
+    <table id="dataTable">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Earth - N</th>
+          <th>Earth-SR</th>
+          <th>IR-HT Body</th>
+          <th>IR-HT LT</th>
+          <th>IR-LT Body</th>
+          <th>Remarks</th>
+          <th>SIN</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Data will be populated here by JavaScript -->
+      </tbody>
+    </table>
+
+    <button id="downloadCsv" class="download-btn">Download CSV</button>
+
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-year">©<span id="current-year"></span></div>
+        <p>Transformer Record System. All rights reserved.</p>
+        <p>Created by Asanka Udayanga</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

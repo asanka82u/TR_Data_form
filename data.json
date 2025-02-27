@@ -1,0 +1,102 @@
+[
+  {
+    "date": "02-01-2024",
+    "earth - n": 7,
+    "earth-sr": 24,
+    "ir-ht_body": 829,
+    "ir-ht_lt": 1040,
+    "ir-lt_body": 1455,
+    "remarks": "Sample remark 2",
+    "SIN": "GH201"
+  },
+  {
+    "date": "03-01-2024",
+    "earth - n": 6,
+    "earth-sr": 23,
+    "ir-ht_body": 845,
+    "ir-ht_lt": 990,
+    "ir-lt_body": 1510,
+    "remarks": "Sample remark 3",
+    "SIN": "GH202"
+  },
+  {
+    "date": "04-01-2024",
+    "earth - n": 5,
+    "earth-sr": 23,
+    "ir-ht_body": 760,
+    "ir-ht_lt": 970,
+    "ir-lt_body": 1528,
+    "remarks": "Sample remark 4",
+    "SIN": "GH203"
+  },
+  {
+    "date": "05-01-2024",
+    "earth - n": 11,
+    "earth-sr": 29,
+    "ir-ht_body": 750,
+    "ir-ht_lt": 956,
+    "ir-lt_body": 1515,
+    "remarks": "Sample remark 5",
+    "SIN": "GH204"
+  },
+  {
+    "date": "06-01-2024",
+    "earth - n": 10,
+    "earth-sr": 29,
+    "ir-ht_body": 774,
+    "ir-ht_lt": 1004,
+    "ir-lt_body": 1474,
+    "remarks": "Sample remark 6",
+    "SIN": "GH205"
+  },
+  {
+    "date": "07-01-2024",
+    "earth - n": 5,
+    "earth-sr": 22,
+    "ir-ht_body": 831,
+    "ir-ht_lt": 1012,
+    "ir-lt_body": 1477,
+    "remarks": "Sample remark 7",
+    "SIN": "GH206"
+  },
+  {
+    "date": "08-01-2024",
+    "earth - n": 11,
+    "earth-sr": 22,
+    "ir-ht_body": 848,
+    "ir-ht_lt": 986,
+    "ir-lt_body": 1467,
+    "remarks": "Sample remark 8",
+    "SIN": "GH207"
+  },
+  {
+    "date": "09-01-2024",
+    "earth - n": 11,
+    "earth-sr": 25,
+    "ir-ht_body": 765,
+    "ir-ht_lt": 1036,
+    "ir-lt_body": 1452,
+    "remarks": "Sample remark 9",
+    "SIN": "GH208"
+  },
+  {
+    "date": "10-01-2024",
+    "earth - n": 10,
+    "earth-sr": 24,
+    "ir-ht_body": 765,
+    "ir-ht_lt": 963,
+    "ir-lt_body": 1487,
+    "remarks": "Sample remark 10",
+    "SIN": "GH209"
+  },
+  {
+    "date": "2025-02-04",
+    "earth - n": 20,
+    "earth-sr": 25,
+    "ir-ht_body": 1004,
+    "ir-ht_lt": 2552,
+    "ir-lt_body": 2546,
+    "remarks": "no remaks ",
+    "SIN": "GH300"
+  }
+]
