@@ -125,9 +125,9 @@ if (
         date: formattedDate,
         "earth - n": parseInt(formData.get("earth - n")),
         "earth-sr": parseInt(formData.get("earth-sr")),
-        "ir-ht_body": parseInt(formData.get("ir-ht_body")),
-        "ir-ht_lt": parseInt(formData.get("ir-ht_lt")),
-        "ir-lt_body": parseInt(formData.get("ir-lt_body")),
+        "ir-ht_body": formData.get("ir-ht_body"),
+        "ir-ht_lt": formData.get("ir-ht_lt"),
+        "ir-lt_body": formData.get("ir-lt_body"),
         remarks: formData.get("remarks"),
         SIN: formData.get("SIN"),
       };
